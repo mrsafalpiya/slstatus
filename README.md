@@ -8,3 +8,6 @@ First make sure you have installed all the required dependencies given at the bo
 4. `sudo make clean install`
 ### Post installation
 Make sure to add `slstatus` at the end of your `xinitrc` file before `exec dwm`.
+
+# Required dependencies
+`otf-overpass` `ttf-font-awesome`
